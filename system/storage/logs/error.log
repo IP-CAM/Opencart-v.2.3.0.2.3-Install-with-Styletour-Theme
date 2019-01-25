@@ -1,0 +1,323 @@
+2019-01-15 10:25:38 - PHP Warning:  fopen(/var/www/test1.ru/public_html/system/storage/cache/cache.store.1547551538): failed to open stream: Permission denied in /var/www/test1.ru/public_html/system/library/cache/file.php on line 49
+2019-01-15 10:25:38 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 51
+2019-01-15 10:25:38 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 53
+2019-01-15 10:25:38 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 55
+2019-01-15 10:25:38 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 57
+2019-01-15 10:25:38 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 59
+2019-01-15 10:25:38 - PHP Warning:  fopen(/var/www/test1.ru/public_html/system/storage/cache/cache.order_status.1.1547551538): failed to open stream: Permission denied in /var/www/test1.ru/public_html/system/library/cache/file.php on line 49
+2019-01-15 10:25:38 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 51
+2019-01-15 10:25:38 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 53
+2019-01-15 10:25:38 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 55
+2019-01-15 10:25:38 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 57
+2019-01-15 10:25:38 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 59
+2019-01-15 10:25:40 - PHP Warning:  fopen(/var/www/test1.ru/public_html/system/storage/cache/cache.store.1547551540): failed to open stream: Permission denied in /var/www/test1.ru/public_html/system/library/cache/file.php on line 49
+2019-01-15 10:25:40 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 51
+2019-01-15 10:25:40 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 53
+2019-01-15 10:25:40 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 55
+2019-01-15 10:25:40 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 57
+2019-01-15 10:25:40 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 59
+2019-01-15 10:25:40 - PHP Warning:  fopen(/var/www/test1.ru/public_html/system/storage/cache/cache.order_status.1.1547551540): failed to open stream: Permission denied in /var/www/test1.ru/public_html/system/library/cache/file.php on line 49
+2019-01-15 10:25:40 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 51
+2019-01-15 10:25:40 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 53
+2019-01-15 10:25:40 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 55
+2019-01-15 10:25:40 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 57
+2019-01-15 10:25:40 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 59
+2019-01-15 10:25:45 - PHP Warning:  fopen(/var/www/test1.ru/public_html/system/storage/cache/cache.store.1547551545): failed to open stream: Permission denied in /var/www/test1.ru/public_html/system/library/cache/file.php on line 49
+2019-01-15 10:25:45 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 51
+2019-01-15 10:25:45 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 53
+2019-01-15 10:25:45 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 55
+2019-01-15 10:25:45 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 57
+2019-01-15 10:25:45 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 59
+2019-01-15 10:25:45 - PHP Warning:  fopen(/var/www/test1.ru/public_html/system/storage/cache/cache.order_status.1.1547551545): failed to open stream: Permission denied in /var/www/test1.ru/public_html/system/library/cache/file.php on line 49
+2019-01-15 10:25:45 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 51
+2019-01-15 10:25:45 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 53
+2019-01-15 10:25:45 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 55
+2019-01-15 10:25:45 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 57
+2019-01-15 10:25:45 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 59
+2019-01-15 10:26:13 - PHP Warning:  fopen(/var/www/test1.ru/public_html/system/storage/cache/cache.store.1547551573): failed to open stream: Permission denied in /var/www/test1.ru/public_html/system/library/cache/file.php on line 49
+2019-01-15 10:26:13 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 51
+2019-01-15 10:26:13 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 53
+2019-01-15 10:26:13 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 55
+2019-01-15 10:26:13 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 57
+2019-01-15 10:26:13 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 59
+2019-01-15 10:26:13 - PHP Warning:  fopen(/var/www/test1.ru/public_html/system/storage/cache/cache.store.1547551573): failed to open stream: Permission denied in /var/www/test1.ru/public_html/system/library/cache/file.php on line 49
+2019-01-15 10:26:13 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 51
+2019-01-15 10:26:13 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 53
+2019-01-15 10:26:13 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 55
+2019-01-15 10:26:13 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 57
+2019-01-15 10:26:13 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 59
+2019-01-15 10:26:13 - PHP Warning:  fopen(/var/www/test1.ru/public_html/system/storage/cache/cache.order_status.1.1547551573): failed to open stream: Permission denied in /var/www/test1.ru/public_html/system/library/cache/file.php on line 49
+2019-01-15 10:26:13 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 51
+2019-01-15 10:26:13 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 53
+2019-01-15 10:26:13 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 55
+2019-01-15 10:26:13 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 57
+2019-01-15 10:26:13 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 59
+2019-01-15 10:26:15 - PHP Warning:  imagepng(/var/www/test1.ru/public_html/image/cache/no_image-100x100.png): failed to open stream: Permission denied in /var/www/test1.ru/public_html/system/library/image.php on line 66
+2019-01-15 10:26:15 - PHP Warning:  imagepng(/var/www/test1.ru/public_html/image/cache/no_image-100x100.png): failed to open stream: Permission denied in /var/www/test1.ru/public_html/system/library/image.php on line 66
+2019-01-15 10:26:15 - PHP Warning:  fopen(/var/www/test1.ru/public_html/system/storage/cache/cache.country.admin.1547551575): failed to open stream: Permission denied in /var/www/test1.ru/public_html/system/library/cache/file.php on line 49
+2019-01-15 10:26:15 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 51
+2019-01-15 10:26:15 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 53
+2019-01-15 10:26:15 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 55
+2019-01-15 10:26:15 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 57
+2019-01-15 10:26:15 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 59
+2019-01-15 10:26:15 - PHP Warning:  fopen(/var/www/test1.ru/public_html/system/storage/cache/cache.length_class.1.1547551575): failed to open stream: Permission denied in /var/www/test1.ru/public_html/system/library/cache/file.php on line 49
+2019-01-15 10:26:15 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 51
+2019-01-15 10:26:15 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 53
+2019-01-15 10:26:15 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 55
+2019-01-15 10:26:15 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 57
+2019-01-15 10:26:15 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 59
+2019-01-15 10:26:15 - PHP Warning:  fopen(/var/www/test1.ru/public_html/system/storage/cache/cache.weight_class.1.1547551575): failed to open stream: Permission denied in /var/www/test1.ru/public_html/system/library/cache/file.php on line 49
+2019-01-15 10:26:15 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 51
+2019-01-15 10:26:15 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 53
+2019-01-15 10:26:15 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 55
+2019-01-15 10:26:15 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 57
+2019-01-15 10:26:15 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 59
+2019-01-15 10:26:15 - PHP Warning:  fopen(/var/www/test1.ru/public_html/system/storage/cache/cache.information.1.1547551575): failed to open stream: Permission denied in /var/www/test1.ru/public_html/system/library/cache/file.php on line 49
+2019-01-15 10:26:15 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 51
+2019-01-15 10:26:15 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 53
+2019-01-15 10:26:15 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 55
+2019-01-15 10:26:15 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 57
+2019-01-15 10:26:15 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 59
+2019-01-15 10:26:15 - PHP Warning:  fopen(/var/www/test1.ru/public_html/system/storage/cache/cache.order_status.1.1547551575): failed to open stream: Permission denied in /var/www/test1.ru/public_html/system/library/cache/file.php on line 49
+2019-01-15 10:26:15 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 51
+2019-01-15 10:26:15 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 53
+2019-01-15 10:26:15 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 55
+2019-01-15 10:26:15 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 57
+2019-01-15 10:26:15 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 59
+2019-01-15 10:26:15 - PHP Warning:  fopen(/var/www/test1.ru/public_html/system/storage/cache/cache.return_status.1.1547551575): failed to open stream: Permission denied in /var/www/test1.ru/public_html/system/library/cache/file.php on line 49
+2019-01-15 10:26:15 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 51
+2019-01-15 10:26:15 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 53
+2019-01-15 10:26:15 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 55
+2019-01-15 10:26:15 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 57
+2019-01-15 10:26:15 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 59
+2019-01-15 10:26:15 - PHP Warning:  fopen(/var/www/test1.ru/public_html/system/storage/cache/cache.store.1547551575): failed to open stream: Permission denied in /var/www/test1.ru/public_html/system/library/cache/file.php on line 49
+2019-01-15 10:26:15 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 51
+2019-01-15 10:26:15 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 53
+2019-01-15 10:26:15 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 55
+2019-01-15 10:26:15 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 57
+2019-01-15 10:26:15 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 59
+2019-01-15 10:26:15 - PHP Warning:  fopen(/var/www/test1.ru/public_html/system/storage/cache/cache.order_status.1.1547551575): failed to open stream: Permission denied in /var/www/test1.ru/public_html/system/library/cache/file.php on line 49
+2019-01-15 10:26:15 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 51
+2019-01-15 10:26:15 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 53
+2019-01-15 10:26:15 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 55
+2019-01-15 10:26:15 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 57
+2019-01-15 10:26:15 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 59
+2019-01-15 10:26:15 - PHP Warning:  fopen(/var/www/test1.ru/public_html/system/storage/cache/cache.zone.176.1547551575): failed to open stream: Permission denied in /var/www/test1.ru/public_html/system/library/cache/file.php on line 49
+2019-01-15 10:26:15 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 51
+2019-01-15 10:26:15 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 53
+2019-01-15 10:26:15 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 55
+2019-01-15 10:26:15 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 57
+2019-01-15 10:26:15 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 59
+2019-01-15 10:28:00 - PHP Warning:  imagepng(/var/www/test1.ru/public_html/image/cache/no_image-100x100.png): failed to open stream: Permission denied in /var/www/test1.ru/public_html/system/library/image.php on line 66
+2019-01-15 10:28:00 - PHP Warning:  imagepng(/var/www/test1.ru/public_html/image/cache/no_image-100x100.png): failed to open stream: Permission denied in /var/www/test1.ru/public_html/system/library/image.php on line 66
+2019-01-15 10:28:00 - PHP Warning:  fopen(/var/www/test1.ru/public_html/system/storage/cache/cache.country.admin.1547551680): failed to open stream: Permission denied in /var/www/test1.ru/public_html/system/library/cache/file.php on line 49
+2019-01-15 10:28:00 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 51
+2019-01-15 10:28:00 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 53
+2019-01-15 10:28:00 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 55
+2019-01-15 10:28:00 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 57
+2019-01-15 10:28:00 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 59
+2019-01-15 10:28:00 - PHP Warning:  fopen(/var/www/test1.ru/public_html/system/storage/cache/cache.length_class.1.1547551680): failed to open stream: Permission denied in /var/www/test1.ru/public_html/system/library/cache/file.php on line 49
+2019-01-15 10:28:00 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 51
+2019-01-15 10:28:00 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 53
+2019-01-15 10:28:00 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 55
+2019-01-15 10:28:00 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 57
+2019-01-15 10:28:00 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 59
+2019-01-15 10:28:00 - PHP Warning:  fopen(/var/www/test1.ru/public_html/system/storage/cache/cache.weight_class.1.1547551680): failed to open stream: Permission denied in /var/www/test1.ru/public_html/system/library/cache/file.php on line 49
+2019-01-15 10:28:00 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 51
+2019-01-15 10:28:00 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 53
+2019-01-15 10:28:00 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 55
+2019-01-15 10:28:00 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 57
+2019-01-15 10:28:00 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 59
+2019-01-15 10:28:00 - PHP Warning:  fopen(/var/www/test1.ru/public_html/system/storage/cache/cache.information.1.1547551680): failed to open stream: Permission denied in /var/www/test1.ru/public_html/system/library/cache/file.php on line 49
+2019-01-15 10:28:00 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 51
+2019-01-15 10:28:00 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 53
+2019-01-15 10:28:00 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 55
+2019-01-15 10:28:00 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 57
+2019-01-15 10:28:00 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 59
+2019-01-15 10:28:00 - PHP Warning:  fopen(/var/www/test1.ru/public_html/system/storage/cache/cache.order_status.1.1547551680): failed to open stream: Permission denied in /var/www/test1.ru/public_html/system/library/cache/file.php on line 49
+2019-01-15 10:28:00 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 51
+2019-01-15 10:28:00 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 53
+2019-01-15 10:28:00 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 55
+2019-01-15 10:28:00 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 57
+2019-01-15 10:28:00 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 59
+2019-01-15 10:28:00 - PHP Warning:  fopen(/var/www/test1.ru/public_html/system/storage/cache/cache.return_status.1.1547551680): failed to open stream: Permission denied in /var/www/test1.ru/public_html/system/library/cache/file.php on line 49
+2019-01-15 10:28:00 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 51
+2019-01-15 10:28:00 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 53
+2019-01-15 10:28:00 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 55
+2019-01-15 10:28:00 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 57
+2019-01-15 10:28:00 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 59
+2019-01-15 10:28:00 - PHP Warning:  fopen(/var/www/test1.ru/public_html/system/storage/cache/cache.store.1547551680): failed to open stream: Permission denied in /var/www/test1.ru/public_html/system/library/cache/file.php on line 49
+2019-01-15 10:28:00 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 51
+2019-01-15 10:28:00 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 53
+2019-01-15 10:28:00 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 55
+2019-01-15 10:28:00 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 57
+2019-01-15 10:28:00 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 59
+2019-01-15 10:28:00 - PHP Warning:  fopen(/var/www/test1.ru/public_html/system/storage/cache/cache.order_status.1.1547551680): failed to open stream: Permission denied in /var/www/test1.ru/public_html/system/library/cache/file.php on line 49
+2019-01-15 10:28:00 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 51
+2019-01-15 10:28:00 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 53
+2019-01-15 10:28:00 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 55
+2019-01-15 10:28:00 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 57
+2019-01-15 10:28:00 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 59
+2019-01-15 10:28:01 - PHP Warning:  fopen(/var/www/test1.ru/public_html/system/storage/cache/cache.zone.176.1547551681): failed to open stream: Permission denied in /var/www/test1.ru/public_html/system/library/cache/file.php on line 49
+2019-01-15 10:28:01 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 51
+2019-01-15 10:28:01 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 53
+2019-01-15 10:28:01 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 55
+2019-01-15 10:28:01 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 57
+2019-01-15 10:28:01 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 59
+2019-01-15 10:29:32 - PHP Warning:  imagepng(/var/www/test1.ru/public_html/image/cache/no_image-100x100.png): failed to open stream: Permission denied in /var/www/test1.ru/public_html/system/library/image.php on line 66
+2019-01-15 10:29:32 - PHP Warning:  imagepng(/var/www/test1.ru/public_html/image/cache/no_image-100x100.png): failed to open stream: Permission denied in /var/www/test1.ru/public_html/system/library/image.php on line 66
+2019-01-15 10:29:32 - PHP Warning:  fopen(/var/www/test1.ru/public_html/system/storage/cache/cache.country.admin.1547551772): failed to open stream: Permission denied in /var/www/test1.ru/public_html/system/library/cache/file.php on line 49
+2019-01-15 10:29:32 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 51
+2019-01-15 10:29:32 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 53
+2019-01-15 10:29:32 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 55
+2019-01-15 10:29:32 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 57
+2019-01-15 10:29:32 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 59
+2019-01-15 10:29:32 - PHP Warning:  fopen(/var/www/test1.ru/public_html/system/storage/cache/cache.length_class.1.1547551772): failed to open stream: Permission denied in /var/www/test1.ru/public_html/system/library/cache/file.php on line 49
+2019-01-15 10:29:32 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 51
+2019-01-15 10:29:32 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 53
+2019-01-15 10:29:32 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 55
+2019-01-15 10:29:32 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 57
+2019-01-15 10:29:32 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 59
+2019-01-15 10:29:32 - PHP Warning:  fopen(/var/www/test1.ru/public_html/system/storage/cache/cache.weight_class.1.1547551772): failed to open stream: Permission denied in /var/www/test1.ru/public_html/system/library/cache/file.php on line 49
+2019-01-15 10:29:32 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 51
+2019-01-15 10:29:32 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 53
+2019-01-15 10:29:32 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 55
+2019-01-15 10:29:32 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 57
+2019-01-15 10:29:32 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 59
+2019-01-15 10:29:32 - PHP Warning:  fopen(/var/www/test1.ru/public_html/system/storage/cache/cache.information.1.1547551772): failed to open stream: Permission denied in /var/www/test1.ru/public_html/system/library/cache/file.php on line 49
+2019-01-15 10:29:32 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 51
+2019-01-15 10:29:32 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 53
+2019-01-15 10:29:32 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 55
+2019-01-15 10:29:32 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 57
+2019-01-15 10:29:32 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 59
+2019-01-15 10:29:32 - PHP Warning:  fopen(/var/www/test1.ru/public_html/system/storage/cache/cache.order_status.1.1547551772): failed to open stream: Permission denied in /var/www/test1.ru/public_html/system/library/cache/file.php on line 49
+2019-01-15 10:29:32 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 51
+2019-01-15 10:29:32 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 53
+2019-01-15 10:29:32 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 55
+2019-01-15 10:29:32 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 57
+2019-01-15 10:29:32 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 59
+2019-01-15 10:29:32 - PHP Warning:  fopen(/var/www/test1.ru/public_html/system/storage/cache/cache.return_status.1.1547551772): failed to open stream: Permission denied in /var/www/test1.ru/public_html/system/library/cache/file.php on line 49
+2019-01-15 10:29:32 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 51
+2019-01-15 10:29:32 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 53
+2019-01-15 10:29:32 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 55
+2019-01-15 10:29:32 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 57
+2019-01-15 10:29:32 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 59
+2019-01-15 10:29:32 - PHP Warning:  fopen(/var/www/test1.ru/public_html/system/storage/cache/cache.store.1547551772): failed to open stream: Permission denied in /var/www/test1.ru/public_html/system/library/cache/file.php on line 49
+2019-01-15 10:29:32 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 51
+2019-01-15 10:29:32 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 53
+2019-01-15 10:29:32 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 55
+2019-01-15 10:29:32 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 57
+2019-01-15 10:29:32 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 59
+2019-01-15 10:29:32 - PHP Warning:  fopen(/var/www/test1.ru/public_html/system/storage/cache/cache.order_status.1.1547551772): failed to open stream: Permission denied in /var/www/test1.ru/public_html/system/library/cache/file.php on line 49
+2019-01-15 10:29:32 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 51
+2019-01-15 10:29:32 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 53
+2019-01-15 10:29:32 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 55
+2019-01-15 10:29:32 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 57
+2019-01-15 10:29:32 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 59
+2019-01-15 10:29:33 - PHP Warning:  fopen(/var/www/test1.ru/public_html/system/storage/cache/cache.zone.176.1547551773): failed to open stream: Permission denied in /var/www/test1.ru/public_html/system/library/cache/file.php on line 49
+2019-01-15 10:29:33 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 51
+2019-01-15 10:29:33 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 53
+2019-01-15 10:29:33 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 55
+2019-01-15 10:29:33 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 57
+2019-01-15 10:29:33 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 59
+2019-01-15 10:29:34 - PHP Warning:  imagepng(/var/www/test1.ru/public_html/image/cache/no_image-100x100.png): failed to open stream: Permission denied in /var/www/test1.ru/public_html/system/library/image.php on line 66
+2019-01-15 10:29:34 - PHP Warning:  imagepng(/var/www/test1.ru/public_html/image/cache/no_image-100x100.png): failed to open stream: Permission denied in /var/www/test1.ru/public_html/system/library/image.php on line 66
+2019-01-15 10:29:34 - PHP Warning:  fopen(/var/www/test1.ru/public_html/system/storage/cache/cache.country.admin.1547551774): failed to open stream: Permission denied in /var/www/test1.ru/public_html/system/library/cache/file.php on line 49
+2019-01-15 10:29:34 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 51
+2019-01-15 10:29:34 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 53
+2019-01-15 10:29:34 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 55
+2019-01-15 10:29:34 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 57
+2019-01-15 10:29:34 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 59
+2019-01-15 10:29:34 - PHP Warning:  fopen(/var/www/test1.ru/public_html/system/storage/cache/cache.length_class.1.1547551774): failed to open stream: Permission denied in /var/www/test1.ru/public_html/system/library/cache/file.php on line 49
+2019-01-15 10:29:34 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 51
+2019-01-15 10:29:34 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 53
+2019-01-15 10:29:34 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 55
+2019-01-15 10:29:34 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 57
+2019-01-15 10:29:34 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 59
+2019-01-15 10:29:34 - PHP Warning:  fopen(/var/www/test1.ru/public_html/system/storage/cache/cache.weight_class.1.1547551774): failed to open stream: Permission denied in /var/www/test1.ru/public_html/system/library/cache/file.php on line 49
+2019-01-15 10:29:34 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 51
+2019-01-15 10:29:34 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 53
+2019-01-15 10:29:34 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 55
+2019-01-15 10:29:34 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 57
+2019-01-15 10:29:34 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 59
+2019-01-15 10:29:34 - PHP Warning:  fopen(/var/www/test1.ru/public_html/system/storage/cache/cache.information.1.1547551774): failed to open stream: Permission denied in /var/www/test1.ru/public_html/system/library/cache/file.php on line 49
+2019-01-15 10:29:34 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 51
+2019-01-15 10:29:34 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 53
+2019-01-15 10:29:34 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 55
+2019-01-15 10:29:34 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 57
+2019-01-15 10:29:34 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 59
+2019-01-15 10:29:34 - PHP Warning:  fopen(/var/www/test1.ru/public_html/system/storage/cache/cache.order_status.1.1547551774): failed to open stream: Permission denied in /var/www/test1.ru/public_html/system/library/cache/file.php on line 49
+2019-01-15 10:29:34 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 51
+2019-01-15 10:29:34 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 53
+2019-01-15 10:29:34 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 55
+2019-01-15 10:29:34 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 57
+2019-01-15 10:29:34 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 59
+2019-01-15 10:29:34 - PHP Warning:  fopen(/var/www/test1.ru/public_html/system/storage/cache/cache.return_status.1.1547551774): failed to open stream: Permission denied in /var/www/test1.ru/public_html/system/library/cache/file.php on line 49
+2019-01-15 10:29:34 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 51
+2019-01-15 10:29:34 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 53
+2019-01-15 10:29:34 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 55
+2019-01-15 10:29:34 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 57
+2019-01-15 10:29:34 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 59
+2019-01-15 10:29:34 - PHP Warning:  fopen(/var/www/test1.ru/public_html/system/storage/cache/cache.store.1547551774): failed to open stream: Permission denied in /var/www/test1.ru/public_html/system/library/cache/file.php on line 49
+2019-01-15 10:29:34 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 51
+2019-01-15 10:29:34 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 53
+2019-01-15 10:29:34 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 55
+2019-01-15 10:29:34 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 57
+2019-01-15 10:29:34 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 59
+2019-01-15 10:29:34 - PHP Warning:  fopen(/var/www/test1.ru/public_html/system/storage/cache/cache.order_status.1.1547551774): failed to open stream: Permission denied in /var/www/test1.ru/public_html/system/library/cache/file.php on line 49
+2019-01-15 10:29:34 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 51
+2019-01-15 10:29:34 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 53
+2019-01-15 10:29:34 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 55
+2019-01-15 10:29:34 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 57
+2019-01-15 10:29:34 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 59
+2019-01-15 10:29:34 - PHP Warning:  fopen(/var/www/test1.ru/public_html/system/storage/cache/cache.zone.176.1547551774): failed to open stream: Permission denied in /var/www/test1.ru/public_html/system/library/cache/file.php on line 49
+2019-01-15 10:29:34 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 51
+2019-01-15 10:29:34 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 53
+2019-01-15 10:29:34 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 55
+2019-01-15 10:29:34 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 57
+2019-01-15 10:29:34 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 59
+2019-01-15 10:41:17 - PHP Warning:  fopen(/var/www/test1.ru/public_html/system/storage/cache/cache.store.1547552477): failed to open stream: Permission denied in /var/www/test1.ru/public_html/system/library/cache/file.php on line 49
+2019-01-15 10:41:17 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 51
+2019-01-15 10:41:17 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 53
+2019-01-15 10:41:17 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 55
+2019-01-15 10:41:17 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 57
+2019-01-15 10:41:17 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 59
+2019-01-15 10:41:17 - PHP Warning:  fopen(/var/www/test1.ru/public_html/system/storage/cache/cache.order_status.1.1547552477): failed to open stream: Permission denied in /var/www/test1.ru/public_html/system/library/cache/file.php on line 49
+2019-01-15 10:41:17 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 51
+2019-01-15 10:41:17 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 53
+2019-01-15 10:41:17 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 55
+2019-01-15 10:41:17 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 57
+2019-01-15 10:41:17 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 59
+2019-01-15 10:41:17 - PHP Warning:  unlink(/var/www/test1.ru/public_html/system/storage/cache/cache.currency.1547547417): Permission denied in /var/www/test1.ru/public_html/system/library/cache/file.php on line 68
+2019-01-15 10:43:46 - PHP Warning:  fopen(/var/www/test1.ru/public_html/system/storage/cache/cache.store.1547552626): failed to open stream: Permission denied in /var/www/test1.ru/public_html/system/library/cache/file.php on line 49
+2019-01-15 10:43:46 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 51
+2019-01-15 10:43:46 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 53
+2019-01-15 10:43:46 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 55
+2019-01-15 10:43:46 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 57
+2019-01-15 10:43:46 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 59
+2019-01-15 10:43:46 - PHP Warning:  fopen(/var/www/test1.ru/public_html/system/storage/cache/cache.order_status.1.1547552626): failed to open stream: Permission denied in /var/www/test1.ru/public_html/system/library/cache/file.php on line 49
+2019-01-15 10:43:46 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 51
+2019-01-15 10:43:46 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 53
+2019-01-15 10:43:46 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 55
+2019-01-15 10:43:46 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 57
+2019-01-15 10:43:46 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/test1.ru/public_html/system/library/cache/file.php on line 59
+2019-01-15 10:43:46 - PHP Warning:  unlink(/var/www/test1.ru/public_html/system/storage/cache/cache.currency.1547547417): Permission denied in /var/www/test1.ru/public_html/system/library/cache/file.php on line 68
+2019-01-24 10:18:02 - PHP Notice:  Use of undefined constant footer - assumed 'footer' in /var/www/test1.ru/public_html/catalog/view/theme/styletour/template/common/home.tpl on line 264
+2019-01-24 10:29:39 - PHP Notice:  Undefined variable: left_column in /var/www/test1.ru/public_html/catalog/view/theme/styletour/template/common/home.tpl on line 218
+2019-01-24 10:30:08 - PHP Notice:  Undefined variable: left_column in /var/www/test1.ru/public_html/catalog/view/theme/styletour/template/common/home.tpl on line 218
+2019-01-24 10:31:02 - PHP Notice:  Undefined variable: left_column in /var/www/test1.ru/public_html/catalog/view/theme/styletour/template/common/home.tpl on line 218
+2019-01-24 10:34:08 - PHP Notice:  Undefined variable: column_left in /var/www/test1.ru/public_html/catalog/view/theme/styletour/template/common/home.tpl on line 218
+2019-01-24 10:37:46 - PHP Notice:  Undefined variable: column_left in /var/www/test1.ru/public_html/catalog/view/theme/styletour/template/common/home.tpl on line 218
+2019-01-24 10:40:35 - PHP Notice:  Undefined variable: column_left in /var/www/test1.ru/public_html/catalog/view/theme/styletour/template/common/home.tpl on line 218
+2019-01-24 10:42:46 - PHP Notice:  Undefined variable: column_left in /var/www/test1.ru/public_html/catalog/view/theme/styletour/template/common/home.tpl on line 218
+2019-01-24 10:42:46 - PHP Notice:  Undefined variable: column_left in /var/www/test1.ru/public_html/catalog/view/theme/styletour/template/common/home.tpl on line 219
+2019-01-24 10:45:46 - PHP Notice:  Undefined variable: left in /var/www/test1.ru/public_html/catalog/view/theme/styletour/template/common/home.tpl on line 218
+2019-01-24 10:45:48 - PHP Notice:  Undefined variable: left in /var/www/test1.ru/public_html/catalog/view/theme/styletour/template/common/home.tpl on line 218
+2019-01-24 10:49:42 - PHP Notice:  Use of undefined constant column_left - assumed 'column_left' in /var/www/test1.ru/public_html/catalog/view/theme/styletour/template/common/home.tpl on line 216
+2019-01-24 10:50:29 - PHP Notice:  Use of undefined constant column_left - assumed 'column_left' in /var/www/test1.ru/public_html/catalog/view/theme/styletour/template/common/home.tpl on line 217
+2019-01-25 5:43:22 - PHP Notice:  Use of undefined constant title - assumed 'title' in /var/www/test1.ru/public_html/catalog/view/theme/styletour/template/common/header.tpl on line 7
+2019-01-25 11:36:44 - PHP Notice:  Undefined variable: script in /var/www/test1.ru/public_html/catalog/view/theme/styletour/template/common/header.tpl on line 28
+2019-01-25 11:36:44 - PHP Notice:  Undefined variable: script in /var/www/test1.ru/public_html/catalog/view/theme/styletour/template/common/header.tpl on line 28
+2019-01-25 11:36:44 - PHP Notice:  Undefined variable: script in /var/www/test1.ru/public_html/catalog/view/theme/styletour/template/common/header.tpl on line 28
+2019-01-25 11:36:45 - PHP Notice:  Undefined variable: script in /var/www/test1.ru/public_html/catalog/view/theme/styletour/template/common/header.tpl on line 28
+2019-01-25 11:36:45 - PHP Notice:  Undefined variable: script in /var/www/test1.ru/public_html/catalog/view/theme/styletour/template/common/header.tpl on line 28
